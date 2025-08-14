@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "title": "Frontend",
+      "accent": true,
+      "tags": ["React", "Next.js", "Angular", "Vue", "TypeScript", "JavaScript", "HTML", "CSS", "Telerik"]
+    },
+    {
+      "title": "Backend & APIs",
+      "accent": false,
+      "tags": [".NET", "ASP.NET", "REST", "SOAP", "WCF"]
+    },
+    {
+      "title": "Mobile",
+      "accent": false,
+      "tags": ["React Native", "Xamarin", "Android (Kotlin)", "iOS (Swift/SwiftUI)"]
+    },
+    {
+      "title": "Cloud & DevOps",
+      "accent": false,
+      "tags": ["Azure", "AWS", "GCP", "DigitalOcean", "Kubernetes", "Terraform", "Helm", "GitHub", "Bitbucket"]
+    },
+    {
+      "title": "Realtime & Comms",
+      "accent": true,
+      "tags": ["WebRTC", "VoIP", "Twilio", "Vonage", "3CX", "SIP/SBC"]
+    },
+    {
+      "title": "Messaging",
+      "accent": false,
+      "tags": ["WhatsApp", "SMS/MMS", "Email", "RCS", "Facebook Messenger", "Instagram"]
+    },
+    {
+      "title": "Data & AI",
+      "accent": true,
+      "tags": ["Machine Learning", "AI solutions"]
+    }
+  ]
+}
